@@ -9,6 +9,9 @@ import tonSvg from './_assets/ton.svg';
 export default function Home() {
   return (
     <List>
+      <Link href='/antd-ton'>
+          <Cell subtitle=''>Antd 组件测试</Cell>
+        </Link>
       <Section
         header='Features'
         footer='You can use these pages to learn more about features, provided by Telegram Mini Apps and other useful projects'

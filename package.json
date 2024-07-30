@@ -10,10 +10,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/web3": "^1.16.0",
+    "@ant-design/web3-ton": "^1.0.0",
     "@telegram-apps/react-router-integration": "^1.0.0",
     "@telegram-apps/sdk-react": "^1.0.0",
     "@telegram-apps/telegram-ui": "^2.1.5",
     "@tonconnect/ui-react": "^2.0.5",
+    "antd": "^5.19.4",
     "eruda": "^3.0.1",
     "next": "14.2.4",
     "normalize.css": "^8.0.1",
